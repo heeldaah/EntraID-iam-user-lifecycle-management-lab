@@ -1,1 +1,5 @@
-
+EmployeeID,Name,Department,Status
+EMP001,John Doe,HR,Active
+EMP002,Mary Smith,Finance,Active
+EMP003,David Paul,IT,Active
+EMP004,Jane Adams,Marketing,Active
