@@ -141,7 +141,7 @@ User access is reviewed and updated when responsibilities change.
 
 ### User Offboarding
 
-![User Offboarding](screenshots/19-john-account-disabled.png)
+![Offboarding](screenshots/19-john-account-disabled.png)
 
 ---
 
